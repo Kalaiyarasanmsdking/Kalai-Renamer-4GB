@@ -76,15 +76,15 @@ python3 bot.py
 </p>
 </details>
 
-🌟 𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗔𝗱𝗺𝗶𝗻 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 
-<p align="center">
-    <img src="https://te.legra.ph/file/e4f69a97c8384ec3d5e88.jpg">
-</p>
-
-<p align="center">
-    <img src="https://te.legra.ph/file/f5edd5d4c0029944a0c3d.jpg">
-</p>
-
 🌟 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓
 
 * 💥 𝘗𝘭𝘦𝘢𝘴𝘦 𝘨𝘪𝘷𝘦 𝘚𝘵𝘢𝘳 ⭐️ & 𝘵𝘩𝘦𝘯 𝘧𝘰𝘳𝘬 𝘵𝘩𝘦 𝘳𝘦𝘱𝘰 & 𝘦𝘥𝘪𝘵 𝘢𝘤𝘤𝘰𝘳𝘥𝘪𝘯𝘨 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘯𝘦𝘦𝘥𝘴. 
+
+🌟 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
+[![telegram badge](https://img.shields.io/badge/Telegram-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
+
+🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
+
+[![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
