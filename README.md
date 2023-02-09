@@ -1,7 +1,6 @@
-# RENAMER_BOT_V3
-Telegram renamer bot
-Supports 4GB Files 
-
+<h3 align="center">
+  <b> 𝐌𝐒-𝐑𝐄𝐍𝐀𝐌𝐄𝐑-𝐏𝐑𝐄𝐌𝐈𝐔𝐌 - ＭＳ－ＴＡＭＩＬ－ＢＯＴＺ ❤️</b>
+</h3>
 
 
 ## Configs 
