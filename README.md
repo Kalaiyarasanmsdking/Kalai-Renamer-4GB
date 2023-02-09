@@ -3,27 +3,28 @@
 </h3>
 
 
-## Configs 
+🌟 𝗖𝗼𝗻𝗳𝗶𝗴𝘀 
 
-* TOKEN  - Get bot token from @BotFather
+- 🔥 TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org 
+- 🔥 API_ID - From my.telegram.org 
 
-* API_HASH      - From my.telegram.org 
+- 🔥 API_HASH - From my.telegram.org 
 
-* ADMIN         - Your User ID 
+- 🔥 ADMIN - Your User ID 
 
-* DB_URL  - Mongo Database URL from https://cloud.mongodb.com/
+- 🔥 DB_URL - Mongo Database URL from https://cloud.mongodb.com/
 
-* DB_NAME  - ```optional``` Your database name from mongoDB. Default will be 'my'
+- 🔥 DB_NAME - ```optional``` Your database name from mongoDB. Default will be 'my'
 
-* CHANNEL        - ```optional``` Channel user Name without @
+- 🔥 CHANNEL - ```optional``` Channel user Name without @
 
-* STRING -  ```optional``` Session String Use @genStr_Bot For Premium Users To Upload 4GB File
+- 🔥 STRING -  ```optional``` Session String Use @genStr_Bot For Premium Users To Upload 4GB File
 
-* LOG_CHANNEL - Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot
+- 🔥 LOG_CHANNEL - Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot
 
-## Commands
+🌟 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀
+
 ```
 start - Start Messsage
 refer - Refer to increase your limits
@@ -75,7 +76,7 @@ python3 bot.py
 </p>
 </details>
 
-# How To Use Admin Command 
+🌟 𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗔𝗱𝗺𝗶𝗻 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 
 <p align="center">
     <img src="https://te.legra.ph/file/e4f69a97c8384ec3d5e88.jpg">
 </p>
@@ -84,7 +85,7 @@ python3 bot.py
     <img src="https://te.legra.ph/file/f5edd5d4c0029944a0c3d.jpg">
 </p>
 
-# Tutorial Video 
+🌟 Tutorial Video 
 
 <a href="https://youtu.be/76VIEgBFQXc"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/76VIEgBFQXc"><img src="https://img.shields.io/youtube/views/03jQRyMVFCs?style=social">
