@@ -2,9 +2,7 @@
 Telegram renamer bot
 Supports 4GB Files 
 
-## Join Railway
 
-<a href="https://railway.app?referralCode=RFr_Ev">Join To Railway</a>
 
 ## Configs 
 
@@ -37,17 +35,46 @@ about - About Bot
 broadcast - Admin Use Only Send Message To All Users
 addpremium - Admin Use Only
 ```
-# 🚀 Deployment
+🌟 𝐃𝐞𝐩𝐥𝐨𝐲
 
-Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
+You can deploy this bot anywhere.
 
-### 💜 Railway -Simple Way
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙆𝙤𝙮𝙚𝙗</summary>
+<p>
+<br>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/MS-TAMIL-BOTZ/MS-RENAMER-PREMIUM&branch=master&name=MsFilmFactory_Bot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+</p>
+</details>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4x-y8J?referralCode=RFr_Ev)
-### 💜 Heroku - simplest way
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙃𝙚𝙧𝙤𝙠𝙪</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/MS-TAMIL-BOTZ/MS-RENAMER-PREMIUM">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/RENAMER_BOT_V3)
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙍𝙚𝙣𝙙𝙚𝙧</summary>
+<p>
+<br>
+<a href="https://dashboard.render.com/select-repo?type=web">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
+</a>
+</p>
+</details>
 
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙑𝙋𝙎</summary>
+<p>
+<pre>
+git clone https://github.com/MS-TAMIL-BOTZ/MS-RENAMER-PREMIUM
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
 
 # How To Use Admin Command 
 <p align="center">
