@@ -5,23 +5,23 @@
 
 🌟 𝗖𝗼𝗻𝗳𝗶𝗴𝘀 
 
-- 🔥 TOKEN  - Get bot token from @BotFather
+- 🔥 ```TOKEN```  - Get bot token from @BotFather
 
-- 🔥 API_ID - From my.telegram.org 
+- 🔥 ```API_ID``` - From my.telegram.org 
 
-- 🔥 API_HASH - From my.telegram.org 
+- 🔥 ```API_HASH``` - From my.telegram.org 
 
-- 🔥 ADMIN - Your User ID 
+- 🔥 ```ADMIN``` - Your User ID 
 
-- 🔥 DB_URL - Mongo Database URL from https://cloud.mongodb.com/
+- 🔥 ```DB_URL``` - Mongo Database URL from https://cloud.mongodb.com/
 
-- 🔥 DB_NAME - ```optional``` Your database name from mongoDB. Default will be 'my'
+- 🔥 ```DB_NAME``` - Your database name from mongoDB. Default will be 'my'
 
-- 🔥 CHANNEL - ```optional``` Channel user Name without @
+- 🔥 ```CHANNEL``` - Channel user Name without @
 
-- 🔥 STRING -  ```optional``` Session String Use @genStr_Bot For Premium Users To Upload 4GB File
+- 🔥 ```STRING``` -  Session String Use @genStr_Bot For Premium Users To Upload 4GB File
 
-- 🔥 LOG_CHANNEL - Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot
+- 🔥 ```LOG_CHANNEL``` - Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot
 
 🌟 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀
 
