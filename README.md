@@ -85,7 +85,6 @@ python3 bot.py
     <img src="https://te.legra.ph/file/f5edd5d4c0029944a0c3d.jpg">
 </p>
 
-🌟 Tutorial Video 
+🌟 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓
 
-<a href="https://youtu.be/76VIEgBFQXc"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/76VIEgBFQXc"><img src="https://img.shields.io/youtube/views/03jQRyMVFCs?style=social">
+* 💥 𝘗𝘭𝘦𝘢𝘴𝘦 𝘨𝘪𝘷𝘦 𝘚𝘵𝘢𝘳 ⭐️ & 𝘵𝘩𝘦𝘯 𝘧𝘰𝘳𝘬 𝘵𝘩𝘦 𝘳𝘦𝘱𝘰 & 𝘦𝘥𝘪𝘵 𝘢𝘤𝘤𝘰𝘳𝘥𝘪𝘯𝘨 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘯𝘦𝘦𝘥𝘴. 
