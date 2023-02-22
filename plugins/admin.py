@@ -28,7 +28,7 @@ async def buypremium(bot, message):
 async def vip(bot,update):
 	id = update.message.reply_to_message.text.split("/addpremium")
 	user_id = id[1].replace(" ", "")
-	inlimit  = 10737418240000
+	inlimit  = 
 	uploadlimit(int(user_id),)
 	usertype(int(user_id),"VIP")
 	addpre(int(user_id))
@@ -39,7 +39,7 @@ async def vip(bot,update):
 async def dft(bot,update):
 	id = update.message.reply_to_message.text.split("/resetpower")
 	user_id = id[1].replace(" ", "")
-	inlimit = 2147483648
+	inlimit = 
 	uploadlimit(int(user_id), )
 	usertype(int(user_id),"**Free**")
 	addpre(int(user_id))
