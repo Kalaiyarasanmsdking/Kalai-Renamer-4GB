@@ -29,7 +29,7 @@ async def vip(bot,update):
 	id = update.message.reply_to_message.text.split("/addpremium")
 	user_id = id[1].replace(" ", "")
 	inlimit  = 10737418240000
-	uploadlimit(int(user_id),10737418240000)
+	uploadlimit(int(user_id),)
 	usertype(int(user_id),"VIP")
 	addpre(int(user_id))
 	await update.message.edit("⚡️ 𝙐𝙨𝙚𝙧 𝙎𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 𝙐𝙥𝙜𝙧𝙖𝙙𝙚𝙙 𝙏𝙤 𝙋𝙧𝙚𝙢𝙞𝙪𝙢 𝙐𝙨𝙚𝙧 ⭐️")
@@ -40,7 +40,7 @@ async def dft(bot,update):
 	id = update.message.reply_to_message.text.split("/resetpower")
 	user_id = id[1].replace(" ", "")
 	inlimit = 2147483648
-	uploadlimit(int(user_id), 2147483648)
+	uploadlimit(int(user_id), )
 	usertype(int(user_id),"**Free**")
 	addpre(int(user_id))
 	await update.message.edit("𝘿𝙖𝙞𝙡𝙮 𝘿𝙖𝙩𝙖 𝙡𝙞𝙢𝙞𝙩 𝙝𝙖𝙨 𝙗𝙚𝙚𝙣 𝙧𝙚𝙨𝙚𝙩 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙨𝙛𝙪𝙡𝙡𝙮 😐\n𝙏𝙝𝙞𝙨 𝙖𝙘𝙘𝙤𝙪𝙣𝙩 𝙝𝙖𝙨 𝙙𝙚𝙛𝙖𝙪𝙡𝙩 2 𝙂𝘽 𝙧𝙚𝙣𝙖𝙢𝙞𝙣𝙜 𝙘𝙖𝙥𝙖𝙘𝙞𝙩𝙮 😊")
